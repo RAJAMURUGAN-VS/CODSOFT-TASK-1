@@ -1,0 +1,138 @@
+.logo {
+    height: 40px;
+    width: 40px;
+}
+
+.border-design {
+    border-radius: 5px;
+}
+
+#home {
+    color: black;
+    font-family: "Roboto";
+}
+
+#bio {
+    color: black;
+    font-family: "Roboto";
+}
+
+#projects {
+    color: black;
+    font-family: "Roboto";
+}
+
+#skills {
+    color: black;
+    font-family: "Roboto";
+}
+
+#work-experience {
+    color: black;
+    font-family: "Roboto";
+}
+
+#education {
+    color: black;
+    font-family: "Roboto";
+}
+
+#certification-and-awards {
+    color: black;
+    font-family: "Roboto";
+}
+
+#contact-information {
+    color: black;
+    font-family: "Roboto";
+}
+
+#resume {
+    color: black;
+    font-family: "Roboto";
+}
+
+.page {
+    padding: 20px;
+    border-style: solid;
+    border-width: 1px;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.home-img {
+    height: 90%;
+    width: 100%;
+    border-radius: 20px;
+}
+
+.home-page-heading {
+    text-decoration: overline;
+    text-align: center;
+    font-family: "Breeserif";
+}
+
+.heading {
+    font-family: "BreeSerif";
+    text-decoration: underline;
+}
+
+.project-card {
+    padding: 10px;
+    border-style: ridge;
+    border-width: 2px;
+    width: 100%;
+}
+
+.project-card-title {
+    font-family: "Caveat";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.project-card-image {
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.view {
+    font-family: "BreeSerif";
+    color: black;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.skills {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 24px;
+    padding: 5px;
+}
+
+.link {
+    background-color: #d7dbd8;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.custom-link {
+    color: black;
+    font-size: 35px;
+}
+
+.footer-section-details {
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    padding: 10px;
+}
